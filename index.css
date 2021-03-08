@@ -17,5 +17,7 @@ body {
     margin: auto;
     text-decoration: none;
     font-family: 'Segoe UI', Helvetica, Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 2rem;
+    font-size: 1.25rem;
+    max-width: 50px;
+    max-height: 50px;
 }
